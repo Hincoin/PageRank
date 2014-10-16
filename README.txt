@@ -1,0 +1,1 @@
+This CPP file computes the page rank for a given input graph. Results are returned as std::vector<double> values.
